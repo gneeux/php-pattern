@@ -24,3 +24,7 @@
 * 代理模式（Proxy）
 * 注册模式（Registry）
 
+### 行为型
+* 责任链模式（Chain Of Responesibilities）
+* 命令模式（Command）
+* 迭代器模式（Iterator）
