@@ -28,3 +28,7 @@
 * 责任链模式（Chain Of Responesibilities）
 * 命令模式（Command）
 * 迭代器模式（Iterator）
+* 中介者模式（Mediator）
+* 备忘录模式（Memento）
+* 空对象模式（Null Object）
+* 观察者模式（Observer）
